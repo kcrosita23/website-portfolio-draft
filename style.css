@@ -44,10 +44,11 @@ nav {
 
 .imglogo {
     width: 200px;
+    cursor: default;
 }
 
 .logo:hover {
-    opacity: .3;
+    cursor: default;
 }
 
 .nav-links {
@@ -401,11 +402,11 @@ article .icon {
 
 .contact-icon {
     height: 2.3rem;
-    cursor: default;
+    cursor: pointer;
 }
 
 .linkedin-icon-contact {
-    cursor: default;
+    cursor: pointer;
     height: 36px;
 }
 
